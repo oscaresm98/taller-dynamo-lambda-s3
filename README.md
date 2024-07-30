@@ -1,7 +1,7 @@
 # Taller Dynamo, Lambda S3
 Aplicación frontend para el registro y visualizacion de usuarios 
 
-Nota: Para que la aplicación funcione es necesario crear un buckets en S3 y para la subida de imágenes y tener configurado un api rest (en lambda para este taller) en donde enviar los datos
+`Nota: Para que la aplicación funcione es necesario crear un buckets en S3 y para la subida de imágenes y tener configurado un api rest (en lambda para este taller) en donde enviar los datos`
 
 ## Pasos para servir el proyecto
 
